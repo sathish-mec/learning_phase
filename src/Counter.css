@@ -1,0 +1,25 @@
+.btn-counter{
+    width: 60px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(237, 66, 237);
+    color: white;
+}
+.btn-str{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(237, 66, 237);
+    color: white;
+    margin-top: 10px;
+}
+.box-dark{
+    width: 30%;
+    height: 30vh;
+    background-color: black;
+}
+.box-white{
+    width: 30%;
+    height: 30vh;
+    background-color: white;
+}
